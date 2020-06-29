@@ -1,0 +1,12 @@
+int main()
+{
+int c=0;
+printf("The value of c is %d",c);
+c++;
+c+=1;
+c--;
+c-=1;
+c*=1;
+c/=1;
+}
+	
